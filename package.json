@@ -19,6 +19,7 @@
     "start": "react-app-rewired start",
     "build": "react-app-rewired build",
     "test": "react-app-rewired test",
+    "test:nowatch": "react-app-rewired test --watchAll=false",
     "lint:es": "./node_modules/.bin/eslint --ext=ts --ext=tsx --ext=js --ext=jsx . --ignore-path .eslintignore",
     "lint:style": "./node_modules/.bin/stylelint --config=.stylelintrc.json '**/*.css' '**/*.scss' '**/*.sass' '**/*.less'",
     "lint": "run-s lint:*",
