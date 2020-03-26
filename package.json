@@ -79,6 +79,6 @@
     "stylelint-config-standard": "^20.0.0",
     "stylelint-order": "^4.0.0",
     "stylelint-webpack-plugin": "^1.2.3",
-    "ts-loader": "^6.2.1"
+    "ts-loader": "^6.2.2"
   }
 }
