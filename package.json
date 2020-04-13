@@ -73,7 +73,7 @@
     "prettier": "2.0.2",
     "react-app-rewired": "^2.1.5",
     "react-docgen-typescript-loader": "^3.7.2",
-    "stylelint": "^13.2.1",
+    "stylelint": "^13.3.2",
     "stylelint-config-prettier": "^8.0.1",
     "stylelint-config-rational-order": "^0.1.2",
     "stylelint-config-standard": "^20.0.0",
